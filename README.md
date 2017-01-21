@@ -13,7 +13,7 @@ Why is this app useful? It's hard to find good music and it's easy to become bor
 
 ##Working Prototype
 
-You can access a working prototype of the app here: https://aungureanu614.github.io/build/#/
+You can access a working prototype of the app here: https://aungureanu614.github.io/
 
 ##Functionality
 The app's functionality includes:
