@@ -30,6 +30,7 @@ The app is built using:
 * React
 * JSX
 * CSS
+* HTML
 * Spotify API
 
 ##Development Roadmap
