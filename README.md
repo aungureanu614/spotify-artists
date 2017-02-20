@@ -13,7 +13,11 @@ Why is this app useful? Spotify doesn't currently offer the option of rating a p
 
 ##Working Prototype
 
+<<<<<<< HEAD
 You can access a working prototype of the app here: https://lit-wave-43289.herokuapp.com/#/
+=======
+You can access a working prototype of the app here: https://aungureanu614.github.io/
+>>>>>>> 5ebc4950cfaa299a91ec2bc9d72043c21c2734ee
 
 ##Functionality
 The app's functionality includes:
@@ -31,8 +35,12 @@ The app is built using:
 * React
 * JSX
 * CSS
+<<<<<<< HEAD
 * MongoDB
 * Mongoose
+=======
+* HTML
+>>>>>>> 5ebc4950cfaa299a91ec2bc9d72043c21c2734ee
 * Spotify API
 
 ##Development Roadmap
