@@ -1,5 +1,5 @@
-# Artist Finder (Extension)
-Thinkful (https://www.thinkful.com) Final Capstone 
+# Artist Finder
+Thinkful (https://www.thinkful.com) React Capstone
 
 ![Screenshot](https://snag.gy/aRZLU1.jpg)
 
