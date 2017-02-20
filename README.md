@@ -13,7 +13,7 @@ Why is this app useful? It makes it easy to search for an artist and discover ne
 
 ##Working Prototype
 
-You can access a working prototype of the app [here](https:aungureanu614.github.io)
+You can access a working prototype of the app [here](https://aungureanu614.github.io/#/)
 
 
 ##Functionality
