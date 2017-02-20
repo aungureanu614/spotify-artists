@@ -13,9 +13,8 @@ Why is this app useful? It makes it easy to search for an artist and discover ne
 
 ##Working Prototype
 
-<<<<<<< HEAD
 You can access a working prototype of the app [here](https://github.com/aungureanu614/spotify-artists)
-=======
+
 
 ##Functionality
 The app's functionality includes:
